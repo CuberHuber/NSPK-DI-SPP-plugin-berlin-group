@@ -5,11 +5,11 @@
 #	NSPK DI
 
 # указание уникального имени источника
-SOURCE <source name>
+SOURCE the-berlin-group
 
 # Тут указывается имя файла с парсером
 # PARSER <название файла с парсером без расширения>
-PARSER source_parser
+PARSER berlin_group
 
 # Настройка задачи
 # SETENV <атрибут управления> [<параметры>, ...]
@@ -21,7 +21,7 @@ BUS_ADD s_download PARSER/SOURCE_PARSER_CLASS/nasty_download
 
 # Тут указывается класс парсера и метод, который платформа будет вызывать
 # START <название класса парсера> <метод, который должен вернуть список документов>
-START SOURCE_PARSER_CLASS content
+START TheBerlinGroup content
 
 
 # Такая конфигурация модулей подходит для "файловых противных источников"

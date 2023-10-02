@@ -14,7 +14,14 @@
 
 ## Источник
 
-Здесь нужно написать про источник, который обрабатывает плагин
+Источник _**The Berlin Group**_
+
+Ссылки для обработки:
+* https://www.berlin-group.org/openfinance-downloads
+* https://www.berlin-group.org/nextgenpsd2-downloads
+* https://www.berlin-group.org/nextgenmp2p-download-page
+* https://www.berlin-group.org/iso20022-sepa-card-clearing-downloads
+* https://www.berlin-group.org/iso8583-authorisation-clearing-downloads
 
 ## DEV
 
